@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3557317838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76dc71d67d31585df8255c26f61f7c64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e25e910dfc677c51bb807fea8db9511f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scanta/Zeamays Fighter/Texture/Zeamaysfighter_NM.jpg
+- Assets/Scanta/Zeamays Fighter/Models/ill.fbx
+- Assets/Scanta/Zeamays Fighter/Texture/Zeamaysfighter_AO.png
+- Assets/Scanta/Zeamays Fighter/Materials/ZeamaysFighter_Albedo.mat
+- Assets/Scanta/Zeamays Fighter/Texture/Zeamaysfighter_diffuse.png
+Dependencies: []

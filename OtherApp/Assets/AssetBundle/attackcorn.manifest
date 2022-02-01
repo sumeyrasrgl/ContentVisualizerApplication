@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3685905042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 339cb8d2004662d198b3626ae2131ea3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ccde28502fd0ab490b1e0aa9264592a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scanta/Zeamays Fighter/Models/attackcorn.fbx
+Dependencies:
+- C:/Users/Ti Muhendislik/Desktop/ContentVisualizerApp/OtherApp/Assets/AssetBundle/corn

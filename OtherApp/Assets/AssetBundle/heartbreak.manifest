@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2394652666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4e714ecae225ee61f615c24f15b049d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e25e910dfc677c51bb807fea8db9511f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scanta/Squeno/Materials/Default.mat
+- Assets/Scanta/Squeno/Materials/initialShadingGroup_Base_Color.mat
+- Assets/Scanta/Squeno/Texture/initialShadingGroup_Base_Color.png
+- Assets/Scanta/Squeno/Models/Running.fbx
+- Assets/Scanta/Squeno/Models/Death.fbx
+- Assets/Scanta/Squeno/Texture/initialShadingGroup_Normal_OpenGL.png
+- Assets/Scanta/Squeno/Texture/initialShadingGroup_Mixed_AO.png
+- Assets/Scanta/Squeno/Texture/initialShadingGroup_Roughness.png
+Dependencies: []

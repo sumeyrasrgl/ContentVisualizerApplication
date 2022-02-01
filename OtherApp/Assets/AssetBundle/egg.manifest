@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2202218476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4aad7cd4708266dd8828b312098a8ec1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e25e910dfc677c51bb807fea8db9511f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scanta/RagingEgg/Model/Excited.fbx
+- Assets/Scanta/RagingEgg/Model/Victory.fbx
+- Assets/Scanta/RagingEgg/Model/Dancing.fbx
+- Assets/Scanta/RagingEgg/Texture/Egg_character_NM.png
+- Assets/Scanta/RagingEgg/Texture/Egg_character_metallic.png
+- Assets/Scanta/RagingEgg/Texture/Egg_character_Diffuse.png
+- Assets/Scanta/RagingEgg/Model/Idle.fbx
+- Assets/Scanta/RagingEgg/Materials/RagingEgg_Albedo.mat
+- Assets/Scanta/RagingEgg/Texture/Egg_character_AO.png
+Dependencies: []

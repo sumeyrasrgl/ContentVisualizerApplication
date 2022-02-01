@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1538607308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c70c06b4a1f6345b72e13a7ceed5406
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ecf0d4ee874ad53fd4d7412f47576d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scanta/RagingEgg/Model/attackegg.fbx
+Dependencies:
+- C:/Users/Ti Muhendislik/Desktop/ContentVisualizerApp/OtherApp/Assets/AssetBundle/egg

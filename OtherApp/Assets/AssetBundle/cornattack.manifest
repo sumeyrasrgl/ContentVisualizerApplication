@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1460738783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1243a2ed21e30a2f7d0264be346ec9b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a2d70bf317131d82075b9cbf5ddf684a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scanta/RagingEgg/Prefab/cornattack.prefab
+Dependencies:
+- C:/Users/Ti Muhendislik/Desktop/ContentVisualizerApp/OtherApp/Assets/AssetBundle/attackegg
+- C:/Users/Ti Muhendislik/Desktop/ContentVisualizerApp/OtherApp/Assets/AssetBundle/egg

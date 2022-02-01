@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1796740856
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: corn
+      Dependencies: {}
+    Info_1:
+      Name: egg
+      Dependencies: {}
+    Info_2:
+      Name: attackegg
+      Dependencies:
+        Dependency_0: egg
+    Info_3:
+      Name: attackcorn
+      Dependencies:
+        Dependency_0: corn
+    Info_4:
+      Name: rotatingegg
+      Dependencies:
+        Dependency_0: egg
+    Info_5:
+      Name: fishskating
+      Dependencies: {}
+    Info_6:
+      Name: walkingfish
+      Dependencies:
+        Dependency_0: fishskating
+    Info_7:
+      Name: walkingcorn
+      Dependencies:
+        Dependency_0: corn

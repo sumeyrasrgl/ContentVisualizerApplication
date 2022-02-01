@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3488399344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddfd3209671e600d310f677d1846b5c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7ea23456e95fc2462c7febbf5a77d75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/walkingfish.prefab
+Dependencies:
+- C:/Users/Ti Muhendislik/Desktop/ContentVisualizerApp/OtherApp/Assets/AssetBundle/fishskating
